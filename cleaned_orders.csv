@@ -1,0 +1,6 @@
+OrderId,Customer,Amount,City,OrderDate
+101.0,Rahim,1200.0,Dhaka,2024-01-01
+102.0,Karim,25.0,Khulna,01/02/2024
+105.0,Rina,,Dhaka,
+106.0,Anika,1200.0,,2024-01-06
+107.0,Rahim,25.0,Khulna,2024-01-07
