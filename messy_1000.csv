@@ -1,0 +1,1001 @@
+OrderId,Customer,City,Amount
+1000.0,Rahim,Chittagong,
+1001.0,,,
+1002.0,Sakib,Khulna,25
+1003.0,ANIKA,Khulna,5000
+1004.0,  rina  ,Khulna,25$
+1005.0,  rina  ,Rajshahi,75
+1006.0,ANIKA,KHULNA,N/A
+1007.0,ANIKA,  dhaka  ,
+1008.0,Karim,Dhaka,25
+1009.0,Sakib,  dhaka  ,
+1010.0,Karim,  dhaka  ,
+1011.0,  rina  ,KHULNA,5000
+1012.0,ANIKA,  dhaka  ,25
+1013.0,ANIKA,Dhaka,5000
+1014.0,,Rajshahi,
+1015.0,Sakib,  dhaka  ,25$
+1016.0,Rahim,Rajshahi,25
+1017.0,Karim,Khulna,N/A
+1018.0,,Rajshahi,
+1019.0,,  dhaka  ,N/A
+1020.0,  rina  ,Rajshahi,75
+1021.0,,Rajshahi,75
+1022.0,Sakib,Rajshahi,1200
+1023.0,Karim,KHULNA,300
+1024.0,,Khulna,300
+1025.0,Karim,,25$
+1026.0,,Rajshahi,
+1027.0,Sakib,  dhaka  ,25
+1028.0,Sakib,Dhaka,N/A
+1029.0,ANIKA,  dhaka  ,25
+1030.0,Karim,  dhaka  ,N/A
+1031.0,Sakib,KHULNA,5000
+1032.0,ANIKA,Dhaka,25
+1033.0,  rina  ,KHULNA,1200
+1034.0,ANIKA,Dhaka,75
+1035.0,Sakib,Dhaka,N/A
+1036.0,ANIKA,Rajshahi,1200
+1037.0,Karim,Rajshahi,25
+1038.0,,Khulna,
+1039.0,Rahim,  dhaka  ,N/A
+1040.0,Sakib,Khulna,75
+1041.0,Sakib,Rajshahi,N/A
+1042.0,Sakib,Khulna,
+1043.0,Karim,Rajshahi,25$
+1044.0,Sakib,,5000
+1045.0,Rahim,Khulna,25$
+1046.0,ANIKA,Rajshahi,25
+1047.0,Sakib,,25
+1048.0,Sakib,Rajshahi,25$
+,ANIKA,Dhaka,25
+1050.0,ANIKA,Dhaka,5000
+1051.0,Sakib,,5000
+1052.0,,Khulna,75
+1053.0,,KHULNA,300
+1054.0,Karim,  dhaka  ,N/A
+1055.0,  rina  ,Dhaka,1200
+1056.0,Rahim,,75
+1057.0,,KHULNA,300
+1058.0,,Rajshahi,75
+1059.0,  rina  ,KHULNA,25
+1060.0,,Chittagong,N/A
+1061.0,Sakib,KHULNA,25$
+1062.0,Rahim,Chittagong,25$
+1063.0,,,1200
+1064.0,Sakib,,75
+1065.0,Karim,KHULNA,25
+1066.0,Karim,Khulna,300
+1067.0,Karim,Chittagong,
+1068.0,  rina  ,KHULNA,25$
+1069.0,ANIKA,Khulna,N/A
+1070.0,,KHULNA,5000
+1071.0,Sakib,,N/A
+1072.0,Rahim,,25
+1073.0,  rina  ,Rajshahi,25
+1074.0,Sakib,KHULNA,
+1075.0,,Chittagong,
+1076.0,,Khulna,25
+1077.0,Rahim,Dhaka,5000
+1078.0,Karim,Rajshahi,300
+1079.0,ANIKA,Khulna,
+1080.0,Rahim,Chittagong,N/A
+1081.0,  rina  ,Chittagong,1200
+1082.0,  rina  ,Dhaka,
+1083.0,Karim,Chittagong,1200
+1084.0,Sakib,Rajshahi,25
+1085.0,ANIKA,Chittagong,300
+1086.0,Rahim,KHULNA,25$
+,Karim,Rajshahi,25
+1088.0,Karim,,75
+1089.0,,Rajshahi,1200
+1090.0,,Dhaka,1200
+1091.0,ANIKA,Rajshahi,25$
+1092.0,Karim,,25$
+1093.0,,Chittagong,N/A
+1094.0,Sakib,Rajshahi,N/A
+1095.0,Rahim,Khulna,5000
+1096.0,,Khulna,25$
+1097.0,Rahim,  dhaka  ,
+1098.0,ANIKA,Rajshahi,25
+1099.0,Rahim,  dhaka  ,1200
+1100.0,Karim,KHULNA,25$
+1101.0,ANIKA,  dhaka  ,N/A
+1102.0,ANIKA,Dhaka,300
+1103.0,Rahim,  dhaka  ,
+1104.0,ANIKA,Dhaka,1200
+1105.0,Rahim,Dhaka,1200
+1106.0,Rahim,  dhaka  ,300
+1107.0,,  dhaka  ,1200
+1108.0,,Khulna,25
+1109.0,ANIKA,Chittagong,300
+1110.0,ANIKA,  dhaka  ,300
+1111.0,Karim,KHULNA,N/A
+1112.0,Sakib,KHULNA,75
+1113.0,Rahim,Chittagong,
+1114.0,  rina  ,  dhaka  ,N/A
+1115.0,Karim,Khulna,
+1116.0,  rina  ,Chittagong,25
+1117.0,Rahim,Chittagong,5000
+1118.0,Karim,Khulna,300
+1119.0,Rahim,Dhaka,1200
+1120.0,  rina  ,,5000
+1121.0,  rina  ,Chittagong,25$
+1122.0,Rahim,,300
+1123.0,Sakib,Rajshahi,75
+1124.0,Karim,Chittagong,N/A
+1125.0,,Khulna,1200
+1126.0,Karim,Rajshahi,5000
+1127.0,Sakib,  dhaka  ,25$
+1128.0,,Dhaka,
+1129.0,  rina  ,  dhaka  ,25
+1130.0,ANIKA,Dhaka,5000
+1131.0,,,25
+1132.0,Sakib,Chittagong,N/A
+1133.0,  rina  ,Khulna,75
+1134.0,Sakib,Chittagong,300
+1135.0,Sakib,Chittagong,5000
+1136.0,  rina  ,Chittagong,N/A
+,Karim,,25
+1138.0,  rina  ,Rajshahi,
+1139.0,Sakib,Khulna,
+1140.0,Sakib,,
+1141.0,,,75
+1142.0,Karim,KHULNA,25$
+1143.0,Sakib,,75
+1144.0,Karim,Chittagong,300
+1145.0,Sakib,Rajshahi,5000
+1146.0,Sakib,Chittagong,5000
+1147.0,Rahim,Chittagong,75
+1148.0,Rahim,Rajshahi,5000
+1149.0,Karim,  dhaka  ,
+1150.0,,Khulna,
+1151.0,Karim,Dhaka,75
+1152.0,Karim,KHULNA,
+,Rahim,Chittagong,300
+1154.0,Rahim,,N/A
+1155.0,,Rajshahi,5000
+1156.0,  rina  ,Khulna,N/A
+1157.0,  rina  ,Chittagong,5000
+1158.0,ANIKA,KHULNA,25
+1159.0,Karim,Dhaka,75
+1160.0,  rina  ,Rajshahi,300
+1161.0,Karim,Chittagong,25$
+1162.0,Karim,Chittagong,
+1163.0,,Rajshahi,
+,Rahim,  dhaka  ,25
+1165.0,Karim,Chittagong,25
+1166.0,ANIKA,  dhaka  ,N/A
+1167.0,ANIKA,Khulna,5000
+1168.0,ANIKA,Chittagong,5000
+1169.0,  rina  ,KHULNA,300
+1170.0,Rahim,Rajshahi,1200
+1171.0,,,5000
+1172.0,Karim,Chittagong,N/A
+1173.0,,,75
+1174.0,,Khulna,25$
+1175.0,Rahim,Dhaka,300
+1176.0,ANIKA,Rajshahi,5000
+1177.0,ANIKA,,1200
+,Sakib,Chittagong,75
+1179.0,Karim,Rajshahi,1200
+1180.0,ANIKA,,1200
+1181.0,,Rajshahi,1200
+1182.0,,KHULNA,5000
+1183.0,Rahim,,1200
+1184.0,Rahim,  dhaka  ,N/A
+1185.0,,Rajshahi,N/A
+1186.0,Karim,Dhaka,N/A
+1187.0,  rina  ,,25$
+1188.0,Karim,Rajshahi,N/A
+1189.0,Sakib,Khulna,75
+1190.0,Rahim,Chittagong,N/A
+1191.0,Sakib,Chittagong,25
+1192.0,,Dhaka,N/A
+1193.0,Karim,KHULNA,5000
+1194.0,ANIKA,Rajshahi,5000
+1195.0,Rahim,KHULNA,
+1196.0,Karim,Rajshahi,1200
+1197.0,Karim,,N/A
+1198.0,Karim,Chittagong,300
+1199.0,ANIKA,Chittagong,75
+1200.0,Karim,,5000
+1201.0,Rahim,KHULNA,5000
+1202.0,  rina  ,Rajshahi,300
+1203.0,Karim,Dhaka,1200
+1204.0,  rina  ,,
+1205.0,ANIKA,,25$
+1206.0,Karim,KHULNA,5000
+1207.0,Rahim,Chittagong,25
+1208.0,ANIKA,Chittagong,5000
+1209.0,ANIKA,Khulna,25
+1210.0,Sakib,Chittagong,75
+1211.0,ANIKA,Rajshahi,N/A
+1212.0,Rahim,Rajshahi,25$
+1213.0,  rina  ,Dhaka,25
+1214.0,Karim,,25$
+1215.0,,Rajshahi,75
+1216.0,ANIKA,,5000
+1217.0,Sakib,,300
+,  rina  ,Khulna,N/A
+1219.0,,Khulna,N/A
+1220.0,Sakib,,1200
+1221.0,Karim,Chittagong,75
+,Karim,,5000
+1223.0,Rahim,KHULNA,25$
+,ANIKA,Khulna,5000
+1225.0,ANIKA,Rajshahi,25
+1226.0,,Chittagong,1200
+1227.0,  rina  ,  dhaka  ,N/A
+1228.0,Sakib,Dhaka,25$
+1229.0,,Dhaka,25
+1230.0,Rahim,Rajshahi,5000
+1231.0,Karim,Rajshahi,300
+1232.0,,Khulna,5000
+1233.0,Sakib,Dhaka,
+1234.0,Rahim,Chittagong,
+1235.0,  rina  ,  dhaka  ,25$
+1236.0,Karim,Chittagong,75
+1237.0,Rahim,  dhaka  ,75
+1238.0,Rahim,Chittagong,N/A
+1239.0,,,1200
+1240.0,Rahim,Rajshahi,1200
+1241.0,ANIKA,Chittagong,300
+1242.0,Sakib,  dhaka  ,25$
+,Sakib,Dhaka,1200
+1244.0,,,
+1245.0,Rahim,  dhaka  ,1200
+1246.0,ANIKA,  dhaka  ,
+1247.0,Karim,Chittagong,25
+1248.0,Karim,Chittagong,N/A
+1249.0,Sakib,Rajshahi,25
+1250.0,,KHULNA,75
+1251.0,,Chittagong,25
+1252.0,Sakib,  dhaka  ,25
+1253.0,,Dhaka,25$
+,Karim,  dhaka  ,75
+1255.0,Sakib,,75
+1256.0,  rina  ,KHULNA,N/A
+1257.0,,Rajshahi,25
+1258.0,  rina  ,Khulna,N/A
+1259.0,Rahim,Rajshahi,N/A
+,Karim,Dhaka,25
+1261.0,Rahim,Chittagong,300
+1262.0,,,5000
+1263.0,Karim,  dhaka  ,
+1264.0,Rahim,Khulna,25$
+1265.0,ANIKA,KHULNA,N/A
+1266.0,  rina  ,  dhaka  ,75
+1267.0,,Chittagong,
+1268.0,ANIKA,Khulna,1200
+1269.0,,KHULNA,25$
+1270.0,ANIKA,  dhaka  ,300
+1271.0,,Chittagong,N/A
+1272.0,Rahim,Khulna,N/A
+1273.0,  rina  ,,N/A
+1274.0,  rina  ,  dhaka  ,300
+1275.0,Sakib,Chittagong,25$
+1276.0,,Khulna,75
+,  rina  ,  dhaka  ,25
+1278.0,Karim,Dhaka,25$
+,Sakib,Rajshahi,75
+1280.0,Rahim,Rajshahi,N/A
+1281.0,ANIKA,Dhaka,N/A
+1282.0,Karim,KHULNA,25$
+1283.0,,KHULNA,N/A
+1284.0,,Khulna,
+1285.0,,Dhaka,300
+1286.0,Rahim,KHULNA,25$
+1287.0,ANIKA,Dhaka,75
+1288.0,Sakib,Khulna,
+1289.0,Sakib,Khulna,N/A
+1290.0,,  dhaka  ,25
+1291.0,Rahim,Chittagong,75
+1292.0,Karim,,1200
+1293.0,  rina  ,Chittagong,N/A
+,  rina  ,  dhaka  ,300
+1295.0,Rahim,KHULNA,5000
+1296.0,Sakib,KHULNA,1200
+1297.0,Rahim,Dhaka,75
+1298.0,Sakib,Chittagong,5000
+1299.0,Rahim,Chittagong,75
+1300.0,,Rajshahi,300
+1301.0,Rahim,Khulna,75
+1302.0,Rahim,KHULNA,25$
+1303.0,Sakib,Dhaka,25$
+1304.0,Rahim,Khulna,5000
+1305.0,Karim,  dhaka  ,1200
+1306.0,Sakib,Dhaka,75
+1307.0,Karim,Khulna,75
+1308.0,  rina  ,Rajshahi,75
+1309.0,ANIKA,Chittagong,300
+1310.0,Karim,Khulna,5000
+1311.0,Sakib,  dhaka  ,5000
+1312.0,,Dhaka,
+1313.0,Sakib,  dhaka  ,1200
+1314.0,ANIKA,,
+1315.0,Rahim,,1200
+1316.0,Karim,  dhaka  ,5000
+1317.0,Sakib,Chittagong,5000
+1318.0,Rahim,  dhaka  ,300
+1319.0,,Chittagong,
+1320.0,ANIKA,,
+1321.0,Sakib,,5000
+1322.0,Rahim,  dhaka  ,5000
+1323.0,Rahim,Khulna,75
+1324.0,Sakib,Dhaka,
+,Karim,Khulna,25$
+1326.0,Karim,Rajshahi,5000
+1327.0,Rahim,Dhaka,5000
+1328.0,  rina  ,Khulna,
+1329.0,Rahim,KHULNA,
+1330.0,ANIKA,Dhaka,25
+1331.0,  rina  ,KHULNA,75
+1332.0,ANIKA,KHULNA,N/A
+1333.0,Karim,Rajshahi,1200
+1334.0,Sakib,Rajshahi,N/A
+1335.0,ANIKA,Rajshahi,300
+1336.0,  rina  ,Rajshahi,25$
+1337.0,ANIKA,,N/A
+1338.0,Karim,,5000
+1339.0,  rina  ,Chittagong,25$
+1340.0,Karim,Khulna,75
+1341.0,Rahim,Khulna,75
+1342.0,,Chittagong,75
+1343.0,ANIKA,  dhaka  ,
+1344.0,  rina  ,  dhaka  ,25$
+1345.0,ANIKA,Chittagong,1200
+1346.0,Karim,Chittagong,
+1347.0,  rina  ,KHULNA,N/A
+1348.0,  rina  ,Dhaka,N/A
+1349.0,ANIKA,KHULNA,5000
+1350.0,Sakib,,25$
+1351.0,Sakib,KHULNA,
+1352.0,  rina  ,,1200
+1353.0,  rina  ,,25
+1354.0,ANIKA,KHULNA,25$
+1355.0,Sakib,  dhaka  ,
+1356.0,Sakib,Khulna,75
+1357.0,Sakib,,300
+,Sakib,Dhaka,N/A
+1359.0,ANIKA,  dhaka  ,75
+1360.0,Rahim,  dhaka  ,N/A
+1361.0,,Rajshahi,300
+1362.0,Karim,KHULNA,N/A
+1363.0,Rahim,Chittagong,1200
+1364.0,Karim,,300
+1365.0,  rina  ,Khulna,1200
+1366.0,Sakib,Chittagong,1200
+1367.0,  rina  ,Dhaka,300
+1368.0,,Dhaka,N/A
+1369.0,,Rajshahi,N/A
+1370.0,ANIKA,Khulna,
+1371.0,Karim,  dhaka  ,75
+1372.0,ANIKA,Chittagong,25
+1373.0,Rahim,,5000
+1374.0,,Khulna,25
+1375.0,,Khulna,75
+1376.0,ANIKA,Dhaka,300
+1377.0,Karim,Rajshahi,75
+1378.0,,Dhaka,
+1379.0,  rina  ,  dhaka  ,1200
+1380.0,Rahim,KHULNA,5000
+1381.0,  rina  ,Khulna,75
+1382.0,Rahim,KHULNA,1200
+1383.0,Karim,Khulna,75
+1384.0,,Chittagong,25$
+1385.0,  rina  ,KHULNA,5000
+1386.0,Karim,  dhaka  ,1200
+1387.0,ANIKA,Dhaka,25
+1388.0,Karim,,N/A
+1389.0,Rahim,Chittagong,
+1390.0,,Khulna,25$
+1391.0,,,25$
+1392.0,Rahim,Chittagong,
+1393.0,Rahim,  dhaka  ,300
+,  rina  ,,25$
+1395.0,Karim,Khulna,75
+1396.0,ANIKA,  dhaka  ,300
+1397.0,,Khulna,75
+1398.0,,Chittagong,300
+1399.0,  rina  ,KHULNA,5000
+1400.0,Karim,Dhaka,25$
+1401.0,Rahim,Khulna,1200
+1402.0,Rahim,Chittagong,5000
+1403.0,ANIKA,  dhaka  ,300
+1404.0,Sakib,Rajshahi,75
+1405.0,,Chittagong,
+1406.0,Rahim,Dhaka,1200
+1407.0,ANIKA,Rajshahi,25$
+1408.0,  rina  ,,5000
+1409.0,Sakib,Rajshahi,25$
+,Sakib,Dhaka,5000
+1411.0,Karim,  dhaka  ,
+1412.0,,Chittagong,N/A
+1413.0,ANIKA,Dhaka,300
+,Karim,,25
+1415.0,  rina  ,KHULNA,5000
+1416.0,  rina  ,Dhaka,5000
+1417.0,  rina  ,Khulna,N/A
+1418.0,Rahim,  dhaka  ,25$
+1419.0,Sakib,Chittagong,
+,Karim,Rajshahi,25
+1421.0,Sakib,Khulna,5000
+1422.0,Rahim,Khulna,25
+1423.0,ANIKA,Dhaka,25
+1424.0,Sakib,,N/A
+1425.0,  rina  ,KHULNA,5000
+,,KHULNA,75
+1427.0,  rina  ,Rajshahi,1200
+,Karim,Dhaka,N/A
+1429.0,  rina  ,Dhaka,300
+1430.0,Sakib,Dhaka,N/A
+1431.0,Rahim,Dhaka,5000
+1432.0,Rahim,Chittagong,75
+1433.0,Sakib,Khulna,5000
+1434.0,ANIKA,Rajshahi,25
+1435.0,Karim,KHULNA,
+1436.0,Karim,Dhaka,5000
+1437.0,  rina  ,Dhaka,300
+1438.0,Karim,Dhaka,5000
+1439.0,,Khulna,5000
+1440.0,ANIKA,KHULNA,300
+1441.0,,KHULNA,
+1442.0,ANIKA,,25$
+,  rina  ,Dhaka,75
+1444.0,Karim,Chittagong,
+1445.0,Rahim,,
+1446.0,  rina  ,,300
+1447.0,,  dhaka  ,25
+1448.0,ANIKA,Chittagong,75
+1449.0,Rahim,Khulna,N/A
+1450.0,ANIKA,Rajshahi,N/A
+1451.0,  rina  ,,25$
+1452.0,Sakib,Khulna,75
+1453.0,Sakib,Khulna,75
+1454.0,  rina  ,Rajshahi,5000
+1455.0,ANIKA,,5000
+1456.0,Rahim,Chittagong,25
+1457.0,Sakib,KHULNA,75
+1458.0,,  dhaka  ,5000
+1459.0,Karim,  dhaka  ,5000
+1460.0,Sakib,KHULNA,5000
+1461.0,ANIKA,  dhaka  ,N/A
+1462.0,Sakib,KHULNA,300
+1463.0,  rina  ,Chittagong,
+1464.0,ANIKA,Khulna,N/A
+,Rahim,Chittagong,300
+1466.0,  rina  ,Dhaka,
+1467.0,ANIKA,Khulna,
+1468.0,  rina  ,Chittagong,
+1469.0,ANIKA,KHULNA,300
+1470.0,ANIKA,Dhaka,300
+1471.0,ANIKA,Dhaka,300
+1472.0,  rina  ,Chittagong,N/A
+1473.0,,Chittagong,1200
+1474.0,Sakib,Rajshahi,5000
+1475.0,,Khulna,75
+1476.0,,Chittagong,
+1477.0,Karim,Rajshahi,75
+1478.0,Karim,Dhaka,N/A
+1479.0,Sakib,Chittagong,1200
+1480.0,Sakib,Khulna,N/A
+1481.0,Sakib,Dhaka,N/A
+1482.0,Rahim,  dhaka  ,300
+1483.0,ANIKA,Dhaka,5000
+,  rina  ,Chittagong,75
+1485.0,ANIKA,Khulna,300
+1486.0,,KHULNA,1200
+1487.0,Sakib,  dhaka  ,5000
+1488.0,Sakib,Rajshahi,25$
+1489.0,Rahim,Chittagong,
+1490.0,,Chittagong,75
+1491.0,Sakib,Chittagong,1200
+1492.0,Rahim,Khulna,1200
+1493.0,Rahim,Dhaka,5000
+1494.0,Sakib,Rajshahi,75
+1495.0,Karim,  dhaka  ,1200
+1496.0,Sakib,Chittagong,300
+1497.0,Karim,KHULNA,N/A
+1498.0,  rina  ,Khulna,25
+1499.0,,Chittagong,1200
+1500.0,  rina  ,KHULNA,
+1501.0,Karim,Chittagong,1200
+1502.0,Sakib,  dhaka  ,N/A
+1503.0,Sakib,Dhaka,300
+1504.0,ANIKA,,N/A
+1505.0,Sakib,Khulna,
+1506.0,Sakib,Dhaka,N/A
+1507.0,  rina  ,Dhaka,25$
+1508.0,Rahim,  dhaka  ,1200
+1509.0,Sakib,Khulna,300
+1510.0,,KHULNA,300
+1511.0,,KHULNA,25
+1512.0,ANIKA,Dhaka,25$
+1513.0,ANIKA,KHULNA,
+1514.0,Sakib,  dhaka  ,1200
+1515.0,,  dhaka  ,5000
+1516.0,Rahim,,5000
+1517.0,,  dhaka  ,75
+1518.0,,Khulna,75
+1519.0,ANIKA,Rajshahi,75
+1520.0,Sakib,Rajshahi,75
+1521.0,  rina  ,Dhaka,75
+,ANIKA,,5000
+1523.0,Rahim,Chittagong,25
+1524.0,ANIKA,  dhaka  ,25
+1525.0,Sakib,Khulna,5000
+1526.0,,Khulna,300
+1527.0,Sakib,KHULNA,
+1528.0,ANIKA,Khulna,25$
+1529.0,Karim,Khulna,25$
+1530.0,Rahim,Rajshahi,N/A
+1531.0,Sakib,  dhaka  ,5000
+1532.0,Rahim,KHULNA,25
+1533.0,,Chittagong,25$
+1534.0,Karim,KHULNA,1200
+1535.0,  rina  ,Dhaka,25$
+1536.0,ANIKA,,25
+1537.0,Karim,Rajshahi,N/A
+1538.0,Sakib,  dhaka  ,1200
+1539.0,Rahim,Dhaka,5000
+1540.0,ANIKA,Khulna,1200
+1541.0,Karim,Dhaka,N/A
+1542.0,Karim,,75
+1543.0,Sakib,,1200
+1544.0,,,
+1545.0,ANIKA,Chittagong,N/A
+1546.0,  rina  ,  dhaka  ,300
+1547.0,,KHULNA,1200
+1548.0,  rina  ,Khulna,75
+,Sakib,KHULNA,N/A
+1550.0,Sakib,  dhaka  ,
+1551.0,ANIKA,Khulna,1200
+1552.0,ANIKA,Dhaka,75
+,  rina  ,Rajshahi,25
+,Rahim,Khulna,1200
+1555.0,ANIKA,KHULNA,N/A
+1556.0,ANIKA,,1200
+1557.0,,  dhaka  ,25$
+1558.0,,Khulna,25
+1559.0,Rahim,Khulna,300
+1560.0,,,25
+1561.0,  rina  ,,25
+1562.0,Rahim,,25
+1563.0,Rahim,Khulna,25
+1564.0,Rahim,KHULNA,75
+1565.0,Sakib,,25
+1566.0,ANIKA,  dhaka  ,1200
+1567.0,,Rajshahi,25
+,ANIKA,,5000
+1569.0,Karim,  dhaka  ,25$
+1570.0,ANIKA,Khulna,25
+1571.0,Rahim,Rajshahi,25$
+1572.0,Karim,,25$
+1573.0,,,300
+1574.0,  rina  ,Dhaka,75
+1575.0,ANIKA,  dhaka  ,25
+1576.0,Karim,  dhaka  ,1200
+1577.0,Rahim,KHULNA,1200
+1578.0,Karim,  dhaka  ,N/A
+1579.0,Rahim,Chittagong,25
+1580.0,Karim,Dhaka,25
+1581.0,,  dhaka  ,N/A
+1582.0,Karim,,75
+1583.0,Sakib,Dhaka,1200
+1584.0,Karim,  dhaka  ,5000
+1585.0,Karim,Chittagong,5000
+1586.0,Karim,,25
+1587.0,Sakib,Khulna,75
+1588.0,Sakib,Dhaka,
+1589.0,Sakib,Rajshahi,
+1590.0,Sakib,KHULNA,25
+1591.0,Sakib,Dhaka,N/A
+1592.0,Sakib,KHULNA,1200
+1593.0,  rina  ,KHULNA,25$
+1594.0,Rahim,  dhaka  ,1200
+1595.0,Rahim,Khulna,300
+1596.0,  rina  ,Khulna,75
+1597.0,  rina  ,  dhaka  ,N/A
+1598.0,Karim,  dhaka  ,
+1599.0,  rina  ,  dhaka  ,
+1600.0,  rina  ,Rajshahi,1200
+1601.0,Karim,  dhaka  ,25$
+1602.0,,  dhaka  ,1200
+1603.0,,  dhaka  ,N/A
+1604.0,ANIKA,Dhaka,25$
+1605.0,ANIKA,Dhaka,25$
+1606.0,,Khulna,25$
+1607.0,ANIKA,Rajshahi,25$
+1608.0,Rahim,Dhaka,300
+1609.0,Karim,KHULNA,300
+,Karim,,75
+1611.0,,Rajshahi,
+1612.0,  rina  ,Khulna,5000
+1613.0,Sakib,KHULNA,
+1614.0,  rina  ,Khulna,300
+1615.0,,  dhaka  ,1200
+1616.0,  rina  ,Khulna,75
+1617.0,,  dhaka  ,N/A
+1618.0,Sakib,Chittagong,1200
+1619.0,Karim,Rajshahi,25
+1620.0,ANIKA,Chittagong,5000
+1621.0,Karim,Rajshahi,1200
+1622.0,Sakib,Khulna,25
+1623.0,Rahim,Dhaka,
+1624.0,,,25
+1625.0,,Khulna,N/A
+1626.0,,  dhaka  ,
+1627.0,ANIKA,Dhaka,75
+1628.0,Sakib,Chittagong,5000
+1629.0,Karim,Chittagong,25
+1630.0,  rina  ,KHULNA,5000
+1631.0,Karim,KHULNA,1200
+1632.0,Sakib,  dhaka  ,5000
+1633.0,Sakib,Chittagong,
+1634.0,Karim,Chittagong,N/A
+1635.0,,Khulna,
+1636.0,ANIKA,Dhaka,5000
+1637.0,Rahim,,25
+1638.0,Rahim,Chittagong,75
+1639.0,Rahim,  dhaka  ,
+1640.0,,  dhaka  ,N/A
+1641.0,Rahim,  dhaka  ,300
+1642.0,Rahim,Khulna,N/A
+1643.0,Karim,Dhaka,25$
+1644.0,ANIKA,Chittagong,25$
+1645.0,Sakib,Dhaka,1200
+1646.0,,Khulna,N/A
+1647.0,  rina  ,Rajshahi,5000
+1648.0,,Dhaka,N/A
+1649.0,,,300
+1650.0,Karim,Rajshahi,25
+1651.0,,,5000
+1652.0,  rina  ,KHULNA,300
+1653.0,Sakib,  dhaka  ,1200
+1654.0,Rahim,Dhaka,300
+1655.0,Karim,Chittagong,75
+1656.0,Sakib,KHULNA,300
+1657.0,Sakib,,300
+1658.0,  rina  ,,25$
+1659.0,ANIKA,Dhaka,300
+1660.0,ANIKA,KHULNA,
+,ANIKA,KHULNA,75
+1662.0,Sakib,Dhaka,25$
+1663.0,ANIKA,Rajshahi,25$
+1664.0,  rina  ,Rajshahi,
+1665.0,Sakib,KHULNA,5000
+1666.0,Sakib,Rajshahi,75
+1667.0,  rina  ,Chittagong,25
+1668.0,Rahim,Khulna,1200
+1669.0,Sakib,,5000
+1670.0,ANIKA,,25
+1671.0,,Khulna,300
+1672.0,Sakib,Chittagong,300
+1673.0,,,300
+1674.0,Sakib,Chittagong,25
+1675.0,,Chittagong,75
+1676.0,Sakib,,25$
+1677.0,Sakib,KHULNA,N/A
+1678.0,Rahim,,N/A
+1679.0,Rahim,,25$
+1680.0,ANIKA,,25$
+1681.0,ANIKA,Chittagong,5000
+1682.0,Sakib,Khulna,25$
+1683.0,,,25
+1684.0,ANIKA,Dhaka,
+1685.0,Rahim,Dhaka,300
+1686.0,Karim,,25
+1687.0,ANIKA,Khulna,300
+1688.0,Rahim,KHULNA,25$
+1689.0,  rina  ,Dhaka,1200
+1690.0,Sakib,Rajshahi,1200
+1691.0,Karim,KHULNA,25
+1692.0,Rahim,Dhaka,75
+1693.0,Rahim,,N/A
+1694.0,Sakib,  dhaka  ,25
+1695.0,ANIKA,Chittagong,
+1696.0,Rahim,Rajshahi,25
+1697.0,Sakib,KHULNA,
+1698.0,Rahim,Chittagong,
+1699.0,ANIKA,  dhaka  ,75
+1700.0,Sakib,Dhaka,1200
+1701.0,Rahim,Chittagong,
+1702.0,  rina  ,  dhaka  ,5000
+1703.0,ANIKA,Dhaka,300
+1704.0,Karim,  dhaka  ,1200
+1705.0,  rina  ,,75
+,,Rajshahi,25
+1707.0,Sakib,KHULNA,N/A
+1708.0,ANIKA,Rajshahi,5000
+1709.0,  rina  ,Rajshahi,25$
+,  rina  ,KHULNA,75
+1711.0,Karim,  dhaka  ,5000
+1712.0,Rahim,Dhaka,N/A
+1713.0,Karim,Rajshahi,N/A
+1714.0,Karim,,25$
+1715.0,Karim,  dhaka  ,
+1716.0,Sakib,  dhaka  ,25$
+1717.0,ANIKA,Chittagong,
+1718.0,Rahim,KHULNA,25$
+1719.0,Sakib,Chittagong,1200
+1720.0,  rina  ,Khulna,25
+1721.0,  rina  ,KHULNA,300
+1722.0,ANIKA,Chittagong,1200
+1723.0,ANIKA,Dhaka,25
+1724.0,ANIKA,KHULNA,75
+1725.0,Sakib,Khulna,5000
+1726.0,ANIKA,KHULNA,25
+1727.0,ANIKA,Dhaka,75
+1728.0,ANIKA,Dhaka,300
+1729.0,ANIKA,Chittagong,300
+1730.0,Rahim,  dhaka  ,300
+1731.0,ANIKA,,25$
+1732.0,,Khulna,300
+1733.0,ANIKA,Rajshahi,
+1734.0,Rahim,Rajshahi,300
+1735.0,Rahim,Chittagong,300
+1736.0,,,5000
+1737.0,  rina  ,Dhaka,5000
+1738.0,  rina  ,Dhaka,1200
+1739.0,Rahim,Chittagong,25$
+1740.0,  rina  ,Khulna,25$
+1741.0,ANIKA,,75
+1742.0,Karim,Dhaka,25
+1743.0,ANIKA,KHULNA,1200
+1744.0,ANIKA,Rajshahi,N/A
+1745.0,Karim,Rajshahi,N/A
+1746.0,  rina  ,KHULNA,
+1747.0,,  dhaka  ,25$
+1748.0,Karim,,75
+1749.0,Sakib,Rajshahi,25$
+1750.0,ANIKA,KHULNA,75
+1751.0,Rahim,Dhaka,1200
+1752.0,Sakib,KHULNA,5000
+1753.0,ANIKA,  dhaka  ,300
+1754.0,,,300
+1755.0,Karim,KHULNA,75
+1756.0,Sakib,Dhaka,1200
+1757.0,Rahim,Chittagong,75
+1758.0,  rina  ,Rajshahi,75
+1759.0,Karim,  dhaka  ,25
+1760.0,,KHULNA,75
+1761.0,ANIKA,Chittagong,300
+1762.0,Sakib,  dhaka  ,
+1763.0,Sakib,  dhaka  ,25$
+1764.0,  rina  ,Chittagong,N/A
+1765.0,Rahim,  dhaka  ,
+1766.0,,Chittagong,75
+1767.0,,,25$
+1768.0,ANIKA,Dhaka,300
+1769.0,ANIKA,Rajshahi,1200
+1770.0,Sakib,Khulna,1200
+1771.0,Karim,Chittagong,5000
+1772.0,,KHULNA,
+1773.0,ANIKA,Dhaka,300
+1774.0,Karim,Chittagong,75
+1775.0,Rahim,,75
+1776.0,,  dhaka  ,1200
+1777.0,Rahim,Khulna,5000
+1778.0,  rina  ,Chittagong,300
+1779.0,Sakib,Dhaka,5000
+1780.0,,,75
+1781.0,Karim,KHULNA,75
+1782.0,Karim,Rajshahi,5000
+1783.0,ANIKA,Dhaka,300
+1784.0,Rahim,Chittagong,N/A
+,Karim,Khulna,5000
+1786.0,Karim,,1200
+1787.0,Rahim,  dhaka  ,
+1788.0,ANIKA,Khulna,300
+1789.0,,KHULNA,5000
+1790.0,  rina  ,Rajshahi,1200
+1791.0,ANIKA,Rajshahi,300
+1792.0,  rina  ,Rajshahi,300
+1793.0,ANIKA,  dhaka  ,300
+1794.0,,KHULNA,300
+1795.0,Karim,Chittagong,75
+1796.0,ANIKA,Chittagong,300
+1797.0,Rahim,KHULNA,25$
+1798.0,Rahim,Chittagong,25$
+1799.0,Karim,Khulna,300
+1800.0,  rina  ,Khulna,5000
+1801.0,Sakib,Rajshahi,25
+,ANIKA,Chittagong,5000
+1803.0,ANIKA,Rajshahi,75
+1804.0,Sakib,KHULNA,1200
+1805.0,Karim,Rajshahi,5000
+1806.0,Rahim,Chittagong,N/A
+1807.0,Sakib,Chittagong,N/A
+1808.0,Sakib,  dhaka  ,25$
+1809.0,ANIKA,Dhaka,N/A
+1810.0,ANIKA,,1200
+1811.0,ANIKA,KHULNA,300
+1812.0,Rahim,KHULNA,75
+1813.0,Rahim,  dhaka  ,75
+1814.0,Sakib,Dhaka,
+1815.0,Karim,,
+1816.0,,Dhaka,
+1817.0,Rahim,Rajshahi,75
+1818.0,,Rajshahi,25
+1819.0,Rahim,Dhaka,75
+1820.0,Karim,Khulna,75
+1821.0,,,25
+1822.0,  rina  ,Dhaka,N/A
+1823.0,Sakib,Dhaka,1200
+1824.0,,Khulna,5000
+1825.0,Sakib,,75
+,Karim,Dhaka,75
+1827.0,Karim,Chittagong,300
+1828.0,Sakib,KHULNA,300
+1829.0,ANIKA,Dhaka,5000
+1830.0,  rina  ,Khulna,5000
+1831.0,Karim,  dhaka  ,75
+1832.0,  rina  ,Dhaka,75
+1833.0,Rahim,  dhaka  ,300
+1834.0,Karim,Chittagong,300
+1835.0,,Rajshahi,N/A
+,Karim,Rajshahi,25
+1837.0,Rahim,Khulna,1200
+1838.0,Rahim,  dhaka  ,1200
+1839.0,ANIKA,Dhaka,25$
+1840.0,  rina  ,KHULNA,N/A
+1841.0,Rahim,Rajshahi,25$
+1842.0,Karim,Khulna,1200
+1843.0,,Khulna,1200
+1844.0,,Khulna,1200
+1845.0,Karim,,
+1846.0,Sakib,,300
+1847.0,Sakib,,N/A
+1848.0,ANIKA,Rajshahi,25
+1849.0,Sakib,Chittagong,25
+1850.0,  rina  ,Dhaka,300
+1851.0,Karim,Rajshahi,N/A
+1852.0,Sakib,Rajshahi,N/A
+1853.0,Sakib,Khulna,300
+,  rina  ,Dhaka,5000
+1855.0,  rina  ,Khulna,25$
+1856.0,Karim,Dhaka,25
+1857.0,Karim,Rajshahi,N/A
+1858.0,,,1200
+1859.0,Karim,  dhaka  ,25
+1860.0,  rina  ,  dhaka  ,5000
+1861.0,Rahim,Rajshahi,25$
+1862.0,Sakib,Chittagong,N/A
+1863.0,Rahim,Dhaka,1200
+,,,300
+1865.0,ANIKA,  dhaka  ,300
+1866.0,Rahim,Khulna,300
+1867.0,Sakib,  dhaka  ,75
+1868.0,,Chittagong,1200
+1869.0,Sakib,  dhaka  ,25
+1870.0,  rina  ,Dhaka,1200
+1871.0,Rahim,KHULNA,N/A
+1872.0,Rahim,KHULNA,5000
+1873.0,,Khulna,25$
+1874.0,Karim,Dhaka,N/A
+1875.0,ANIKA,  dhaka  ,300
+1876.0,Sakib,Khulna,5000
+1877.0,,Chittagong,25
+,Rahim,Rajshahi,75
+1879.0,Sakib,Dhaka,
+,Karim,Chittagong,25
+1881.0,Karim,,
+1882.0,Karim,KHULNA,25
+1883.0,,  dhaka  ,N/A
+1884.0,  rina  ,Khulna,1200
+1885.0,Sakib,Chittagong,1200
+1886.0,  rina  ,Dhaka,1200
+1887.0,Rahim,Khulna,75
+1888.0,Rahim,Dhaka,25
+1889.0,,Chittagong,5000
+1890.0,  rina  ,Khulna,
+1891.0,,KHULNA,1200
+1892.0,Karim,KHULNA,25$
+1893.0,ANIKA,Chittagong,1200
+1894.0,Karim,Dhaka,N/A
+1895.0,Rahim,,300
+1896.0,Karim,,5000
+1897.0,Sakib,,1200
+1898.0,,  dhaka  ,25
+1899.0,Sakib,  dhaka  ,300
+1900.0,  rina  ,  dhaka  ,5000
+1901.0,ANIKA,Chittagong,N/A
+1902.0,Karim,Chittagong,25
+1903.0,,Dhaka,25$
+1904.0,ANIKA,Dhaka,
+1905.0,Sakib,,5000
+1906.0,,Rajshahi,1200
+1907.0,ANIKA,Chittagong,1200
+1908.0,Karim,,1200
+1909.0,  rina  ,Rajshahi,75
+1910.0,Rahim,,
+1911.0,Karim,Dhaka,300
+1912.0,  rina  ,Rajshahi,N/A
+1913.0,Rahim,Chittagong,25$
+1914.0,  rina  ,Rajshahi,25
+1915.0,  rina  ,Rajshahi,300
+1916.0,Sakib,,5000
+1917.0,Karim,,75
+1918.0,ANIKA,KHULNA,300
+1919.0,ANIKA,  dhaka  ,5000
+1920.0,ANIKA,Rajshahi,1200
+1921.0,Rahim,,25
+1922.0,ANIKA,Dhaka,300
+1923.0,  rina  ,Rajshahi,N/A
+1924.0,Karim,KHULNA,25
+,  rina  ,Khulna,5000
+1926.0,Karim,Rajshahi,300
+1927.0,ANIKA,KHULNA,
+1928.0,Rahim,KHULNA,25$
+1929.0,Rahim,  dhaka  ,N/A
+1930.0,  rina  ,KHULNA,5000
+1931.0,  rina  ,Chittagong,25$
+1932.0,  rina  ,Khulna,25$
+1933.0,Sakib,  dhaka  ,25$
+1934.0,ANIKA,Rajshahi,
+1935.0,Karim,KHULNA,25$
+1936.0,Karim,  dhaka  ,25$
+1937.0,  rina  ,KHULNA,300
+1938.0,ANIKA,KHULNA,25
+1939.0,Karim,,25$
+1940.0,  rina  ,  dhaka  ,25
+1941.0,Rahim,Rajshahi,
+1942.0,Karim,  dhaka  ,
+1943.0,ANIKA,Dhaka,
+1944.0,Karim,  dhaka  ,75
+1945.0,Sakib,Dhaka,300
+1946.0,,Khulna,25
+1947.0,Karim,Dhaka,300
+1948.0,Rahim,Dhaka,75
+1949.0,Karim,Khulna,25
+1950.0,  rina  ,Rajshahi,5000
+1951.0,Karim,  dhaka  ,1200
+1952.0,  rina  ,Chittagong,
+1953.0,  rina  ,,75
+1954.0,ANIKA,,
+1955.0,ANIKA,Rajshahi,
+1956.0,,Khulna,
+1957.0,Rahim,KHULNA,1200
+1958.0,ANIKA,Rajshahi,300
+1959.0,Sakib,Khulna,25
+1960.0,,Chittagong,300
+1961.0,ANIKA,Rajshahi,25$
+1962.0,,Dhaka,25$
+1963.0,Karim,Dhaka,
+1964.0,Rahim,  dhaka  ,300
+1965.0,Sakib,,N/A
+1966.0,Sakib,  dhaka  ,75
+1967.0,,Rajshahi,300
+1968.0,Karim,Dhaka,300
+1969.0,  rina  ,KHULNA,1200
+1970.0,ANIKA,Dhaka,25
+1971.0,Karim,,300
+1972.0,Rahim,,25$
+1973.0,  rina  ,,5000
+1974.0,,,N/A
+1975.0,Sakib,Rajshahi,1200
+1976.0,Rahim,,75
+1977.0,ANIKA,KHULNA,N/A
+1978.0,  rina  ,Rajshahi,5000
+1979.0,,Khulna,1200
+1980.0,Rahim,Khulna,
+1981.0,Rahim,Khulna,5000
+1982.0,ANIKA,Dhaka,N/A
+1983.0,Rahim,Khulna,
+1984.0,Rahim,KHULNA,25$
+1985.0,Rahim,Dhaka,N/A
+1986.0,,KHULNA,1200
+1987.0,Rahim,KHULNA,5000
+1988.0,ANIKA,  dhaka  ,1200
+1989.0,ANIKA,KHULNA,
+1990.0,ANIKA,Rajshahi,N/A
+1991.0,Rahim,Chittagong,25
+1992.0,ANIKA,Dhaka,N/A
+1993.0,  rina  ,,
+1994.0,,KHULNA,N/A
+,ANIKA,  dhaka  ,300
+1996.0,,Khulna,N/A
+1997.0,Sakib,Rajshahi,75
+1998.0,Rahim,Khulna,25
+1999.0,,Rajshahi,
